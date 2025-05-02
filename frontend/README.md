@@ -4,7 +4,7 @@ A full-stack word-processing web application with user authentication, MongoDB l
 
 📁 Repository Structure
 
-
+```text
 **word-document-in-react/
 ├── backend/ # Node.js + Express API, MongoDB logging
 │ ├── package.json
@@ -21,7 +21,7 @@ A full-stack word-processing web application with user authentication, MongoDB l
 ├── Default.tsx # Main editor UI
 ├── title-bar.ts # Syncfusion TitleBar helper
 └── App.css # Global styles**
-
+```
 🔧 Prerequisites
 
 - **Node.js** ≥ 16.x
