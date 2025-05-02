@@ -159,4 +159,4 @@ The image shows a document editor where the text “I stay in 1st floor” is ty
 ![image](https://github.com/user-attachments/assets/74bc5d84-0126-430b-a1a5-eeb968389f6d)
 The image shows the "Columns" settings dialog with the "Two Columns" preset selected and equal column widths enabled.
 ![image](https://github.com/user-attachments/assets/01147c46-62ae-475e-8f9d-12052e472f71)
-The image shows the terminal output of a test run where the file has passed all 6 tests successfully. It verifies component behavior such as rendering toolbar buttons, handling logout, and generating alerts for speech and grammar checks.
+The image shows the terminal output of a JEST test run where the file has passed all 6 unit tests successfully. It verifies component behavior such as rendering toolbar buttons, handling logout, and generating alerts for speech and grammar checks.
