@@ -1,9 +1,11 @@
 **Advanced-Word-Processor-System-using-React-NodeJS-frontend-MongoDB-for-Backend**
 
 A full-stack word-processing web application with user authentication, MongoDB logging, Syncfusion DocumentEditor, text-to-speech, sentiment analysis, and more.
+
 📁 Repository Structure
 
-word-document-in-react/
+
+**word-document-in-react/
 ├── backend/ # Node.js + Express API, MongoDB logging
 │ ├── package.json
 │ └── server.js
@@ -18,7 +20,7 @@ word-document-in-react/
 ├── AuthPage.tsx # Signup / Login UI
 ├── Default.tsx # Main editor UI
 ├── title-bar.ts # Syncfusion TitleBar helper
-└── App.css # Global styles
+└── App.css # Global styles**
 
 🔧 Prerequisites
 
