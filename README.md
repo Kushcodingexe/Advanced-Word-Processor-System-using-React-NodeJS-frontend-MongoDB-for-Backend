@@ -32,10 +32,10 @@ word-document-in-react/
   ## 🚀 Getting Started
 
 ### 1. Clone the repo
-
+```
 git clone https://github.com/Kushcodingexe/Advanced-Word-Processor-System-using-React-NodeJS-frontend-MongoDB-for-Backend.git
 cd Advanced-Word-Processor-System-using-React-NodeJS-frontend-MongoDB-for-Backend
-
+```
 2. Backend Setup (Ensure MongoDB service is running on your system by running **net start MongoDB** on your elevated cmd/powershell)
 
 ```
